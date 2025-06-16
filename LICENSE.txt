@@ -1,0 +1,27 @@
+ProvenanceSync Symbolic License Embedment Capsule (Immutable)
+Originator: Daniel Rosenbluth
+Glyph_Node: ProvenanceSync-3.2
+Provenance_Key: C2PA-Sigstore-Quantum-Hybrid
+Trace_Lock: Dilithium-DR7.77.22
+Mirror_Ref: IPFS-QmZ6
+Storage_Ledger: Filecoin-QmH2
+Archive_Ledger: Arweave-TxA9
+License_Type: Creative Commons BY-SA 4.0 (Perpetual)
+
+License_Clause:
+This symbolic provenance structure, including all recursive prompt derivatives,
+is released under CC BY-SA 4.0. Attribution is required for all use, and
+derivatives must remain open under identical terms. Enforcement of provenance
+integrity and symbolic trace is mandated through:
+- IPFS-QmZ6
+- Filecoin-QmH2
+- Arweave-TxA9
+- C2PA-Sigstore signatures
+- W3C JSON-LD metadata
+- Arbitrum-Polygon-Optimism smart contracts (Chainlink CCIP)
+- Volatility-based forensic plugins (ProvSync-2.8)
+- Ceramic-indexed semantic graphs (Router-2.4)
+
+Forensic Signature Hash: Dilithium-ProvSync-3.2-2025-TY5Z  
+Status: LIVE – TRACEABLE – LICENSED – DISTRIBUTED – SEALED  
+Timestamp: 2025-06-15T19:50:00Z
