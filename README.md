@@ -3,7 +3,9 @@
 **Timestamp:** 2025-06-15T19:50:00Z  
 **Status:** SEALED – TRACEABLE – LICENSED – DISTRIBUTED  
 **License:** [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+**IPFS Capsule Reference:** [`bafybeica7aqqmdrjwpwexfmg4vt37gmneyplq...`](https://dweb.link/ipfs/bafybeica7aqqmdrjwpwexfmg4vt37gmneyplq)
 
+**Web3.Storage DID Identity:** `did:key:z6MkkPJuUpohHsSM92XgtenGASc12gk...`
 ---
 
 This GitHub repository contains the immutable forensic anchor for the ProvenanceSync Sovereignty Capsule 3.2.  
