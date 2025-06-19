@@ -1,0 +1,11 @@
+{
+  "repository": "ProvenanceSync-3.2-Capsule",
+  "owner": "drosenbluth25",
+  "timestamp": 1718475600,
+  "commit_sha": "c49e6b1",
+  "badge_url": "https://github.com/drosenbluth25/ProvenanceSync-3.2-Capsule/actions/workflows/validate.yml/badge.svg",
+  "status": "SEALED",
+  "license": "CC-BY-SA-4.0",
+  "symbolic_attribution": "Daniel Rosenbluth",
+  "vaultghost_protocol": "3.2"
+}
